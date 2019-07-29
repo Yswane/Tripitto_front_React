@@ -7,7 +7,7 @@ Axios, cors, jsonwebtoken, browser-history, grommet, node-sass, react-router, re
 
 ## **Process to follow :** 
 
-* Clone the Github project and execute "npm i" in the terminal for install dependancy
+* Clone the Github project
 
 * Install dependency with the commande line " npm i " in the terminal
 
